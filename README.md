@@ -16,8 +16,8 @@ Sentiment Analysis on the First Republic Party debate in 2016 based on Python,NL
 
 **Results:** 
 after training 100 epochs 
-- accuracy average 81%
-- best: 84%
+- average accuracy 81%
+- best accuracy 84%
 - positive accuracy 50.68%
 - negative accuracy 89.98%
 
