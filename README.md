@@ -15,7 +15,7 @@ Sentiment Analysis on the First Republic Party debate in 2016 based on Python,NL
 - csv file containing first GOP debate (Ohio) tweets to analyze sentiment
 
 **Results:** 
-after training 100 epochs 
+after training 100 epochs (20 minutes)
 - average accuracy 81%
 - best accuracy 84%
 - positive accuracy 50.68%
