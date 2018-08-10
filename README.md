@@ -22,3 +22,10 @@ after training 100 epochs (20 minutes)
 - negative accuracy 89.98%
 
 **More information:** https://www.kaggle.com/ngyptr/python-nltk-sentiment-analysis/notebook
+
+
+## Information about more algorithms 
+Navigate to the folder 
+```
+Machine learning and deep learning definitions.docx
+```
