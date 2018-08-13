@@ -6,6 +6,13 @@ Sentiment Analysis on the First Republic Party debate in 2016 based on Python,NL
 
 
 ## Sentiment Text Analysis Output
+**Results:** 
+after training 100 epochs (20 minutes)
+- average accuracy 81%
+- best accuracy 84%
+- positive accuracy 50.68%
+- negative accuracy 89.98%
+
 **Objective:** determine the writer's attitude (positive, negative, or neutral) towards a particular topic/product. 
 
 **API used:** 
@@ -14,12 +21,6 @@ Sentiment Analysis on the First Republic Party debate in 2016 based on Python,NL
 **Dataset:** 
 - csv file containing first GOP debate (Ohio) tweets to analyze sentiment
 
-**Results:** 
-after training 100 epochs (20 minutes)
-- average accuracy 81%
-- best accuracy 84%
-- positive accuracy 50.68%
-- negative accuracy 89.98%
 
 **More Information:** https://www.kaggle.com/ngyptr/python-nltk-sentiment-analysis/notebook
 
